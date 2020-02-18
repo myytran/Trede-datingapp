@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200787412676",
+    "firebase_url": "https://sipdate.firebaseio.com",
+    "project_id": "sipdate",
+    "storage_bucket": "sipdate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200787412676:android:5b2f00f419392778862b91",
+        "android_client_info": {
+          "package_name": "sipdate.me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200787412676-9pq24dinc9d5n42ilphk9ifb6i7dgsdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsoaGmzKl6DHrvk3Qnqibjrn3tIkCuXbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200787412676-9pq24dinc9d5n42ilphk9ifb6i7dgsdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
